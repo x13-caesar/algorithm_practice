@@ -1,4 +1,6 @@
-# Qiangwen's Personal LeetCode Practice
+# Introduction
 
-Following the steps in: [https://docs.google.com/document/d/1bQqULJI8X1SUGqGRCUReVPnBXSqd-Gx\_DfvGU6FFHzg/edit?usp=sharing](https://docs.google.com/document/d/1bQqULJI8X1SUGqGRCUReVPnBXSqd-Gx_DfvGU6FFHzg/edit?usp=sharing)
+This work is some personal notes of learning and practicing data structures and algorithm, hosted on [https://github.com/x13-caesar/algorithm\_practice](https://github.com/x13-caesar/algorithm_practice) and rendered by [Gitbook](https://xuqiangwen1994.gitbook.io/practice/).
+
+
 
