@@ -38,24 +38,28 @@ Shortfalls: Always search the whole tree \(starting from searching initial left 
 #         self.right = None
 
 class Solution:
+    def __init__(self):
+        self.record=[]
+        
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         # [1] 如果 root 是 p/q 中的一个，就算找到了，不继续搜索了
         if any((not root, root == p, root == q)): 
+            self.record.append(root)
             return root
         # 如果不是，再往下搜索 l/r 两个subtrees，这边会 recursively 地往下找，直到触发[1][2][3]开始朝上return
         l = self.lowestCommonAncestor(root.left, p, q)
-        r = self.lowestCommonAncestor(root.right, p, q)
-        # [2] 如果 l/r 中有至少一个没找到 p/q 的存在：
-        if (not l) or (not r): 
-            # return 有 p/q 存在的那个
-            # 如果 l/r 里都没找到， return null值（说明往下的subtree里都没有）
-            return l if l else r
-        # [3] 能运行到这里说明 l/r 两个 subtrees 各自找到 p/q 中的其中一个
-        # 那 LCA 就是我们目前的 root
-        return root
-        # 一个小问题：即便 p/q 都在最开始的 left sub 里面
-        # 我们找到了之后在第一轮 search 里面 return l 作为最终 root
-        # 算法也还是会继续搜索 r 才结束
+        if (p in self.record) and (q in self.record):
+            return l
+        else:
+            r = self.lowestCommonAncestor(root.right, p, q)
+            # [2] 如果 l/r 中有至少一个没找到 p/q 的存在：
+            if (not l) or (not r): 
+                # return 有 p/q 存在的那个
+                # 如果 l/r 里都没找到， return null值（说明往下的subtree里都没有）
+                return l if l else r
+            # [3] 能运行到这里说明 l/r 两个 subtrees 都有找到 p/q 中的其中一个
+            # 那 LCA 就是我们目前的 root
+            return root
 ```
 
 
