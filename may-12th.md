@@ -39,6 +39,7 @@ Shortfalls: Always search the whole tree \(starting from searching initial left 
 
 class Solution:
     def __init__(self):
+    # 加一个对象记录已经找到的 p/q
         self.record=[]
         
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
@@ -48,6 +49,7 @@ class Solution:
             return root
         # 如果不是，再往下搜索 l/r 两个subtrees，这边会 recursively 地往下找，直到触发[1][2][3]开始朝上return
         l = self.lowestCommonAncestor(root.left, p, q)
+        # 如果 p/q 都已经在 l 里面找到了，就不需要再搜索 r 了，直接返回 l
         if (p in self.record) and (q in self.record):
             return l
         else:
@@ -55,7 +57,7 @@ class Solution:
             # [2] 如果 l/r 中有至少一个没找到 p/q 的存在：
             if (not l) or (not r): 
                 # return 有 p/q 存在的那个
-                # 如果 l/r 里都没找到， return null值（说明往下的subtree里都没有）
+                # 如果 l/r 里都没找到， 返回 null值（说明往下的subtree里都没有）
                 return l if l else r
             # [3] 能运行到这里说明 l/r 两个 subtrees 都有找到 p/q 中的其中一个
             # 那 LCA 就是我们目前的 root
