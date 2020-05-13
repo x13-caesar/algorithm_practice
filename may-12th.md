@@ -1,6 +1,6 @@
 # May 12th
 
-258. Add Digits
+## 258. Add Digits
 
 The result slides repeatedly from 1 to 9, and when &lt;num&gt; is able to be rounded by 9, the result is &lt;9&gt; \(e.g. input 36, 45, 54...\). Thus, we can get the result by calculating the remainder of the division by 9.
 
@@ -21,14 +21,12 @@ class Solution:
             return res
 ```
 
-235. Lowest Common Ancestor of a Binary Search Tree
+## 235. Lowest Common Ancestor of a Binary Search Tree
 
 Recursively search the subtrees, return current root node till both of p and q have been found in subtrees.
 
-Shortfalls: Always search the whole tree \(starting from searching initial left subtree and right subtree\). 
-
 ```python
-#pytho
+#python solution
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -39,25 +37,27 @@ Shortfalls: Always search the whole tree \(starting from searching initial left 
 
 class Solution:
     def __init__(self):
-    # 加一个对象记录已经找到的 p/q
-        self.record=[]
+        # 设置一个 map 来记录 p/q 是否已经被找到
+        self.record={}
         
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        self.record={p:False,q:False}
         # [1] 如果 root 是 p/q 中的一个，就算找到了，不继续搜索了
         if any((not root, root == p, root == q)): 
-            self.record.append(root)
+            if root: # 记录找到了 p/q
+                self.record[root]=True
             return root
         # 如果不是，再往下搜索 l/r 两个subtrees，这边会 recursively 地往下找，直到触发[1][2][3]开始朝上return
         l = self.lowestCommonAncestor(root.left, p, q)
-        # 如果 p/q 都已经在 l 里面找到了，就不需要再搜索 r 了，直接返回 l
-        if (p in self.record) and (q in self.record):
-            return l
+        # 要是 p/q 都已经在 l 里面找到了，就不需要再搜索 r 了，直接返回 l
+        if self.record[p] and self.record[q]:
+            return l    
         else:
             r = self.lowestCommonAncestor(root.right, p, q)
             # [2] 如果 l/r 中有至少一个没找到 p/q 的存在：
             if (not l) or (not r): 
                 # return 有 p/q 存在的那个
-                # 如果 l/r 里都没找到， 返回 null值（说明往下的subtree里都没有）
+                # 如果 l/r 里都没找到， return null值（说明往下的subtree里都没有）
                 return l if l else r
             # [3] 能运行到这里说明 l/r 两个 subtrees 都有找到 p/q 中的其中一个
             # 那 LCA 就是我们目前的 root
