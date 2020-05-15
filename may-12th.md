@@ -64,5 +64,24 @@ class Solution:
             return root
 ```
 
+solution 2: 
+
+Take advantage of the properties of the binary search tree:
+
+```python
+class Solution:
+    def lowestCommonAncestor(self, root, p, q):
+        if not root:
+            return
+        # 如果 p,q 都大于 root， 则他们都会在 root 的右分支
+        if root.val < p.val and root.val < q.vaL:
+            return self.lowestCommanAncester(root.right, p, q)
+        # 如果 p,q 都小于 root， 则他们都会在 root 的左分支
+        if root.val > p.val and root.val > q.val:
+            return self.lowestCommanAncester(root.right, p, q)
+        # 如果 p,q 一个大于 root 一个小于 root，则 LCA 就在 root上
+        return root
+```
+
 
 
