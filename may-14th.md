@@ -2,7 +2,7 @@
 
 ## 125. Valid Palindrome
 
-{% embed url="https://leetcode.com/problems/valid-palindrome/" %}
+{% embed url="https://leetcode.com/problems/valid-palindrome/" caption="Valid Palindrome" %}
 
 思路一：相向双指针
 
@@ -47,7 +47,7 @@ class Solution:
 
 ## 409. Longest Palindrome
 
-{% embed url="https://leetcode.com/problems/longest-palindrome/submissions/" %}
+{% embed url="https://leetcode.com/problems/longest-palindrome/submissions/" caption="Longest Palindrome" %}
 
 1. 统计字符出现次数然后进行遍历
 2. 偶数字符直接加上，奇数字符的话，我们取出其最大偶数，
