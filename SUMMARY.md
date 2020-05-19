@@ -12,4 +12,8 @@
 * [May 13th](may-13th.md)
 * [May 14th](may-14th.md)
 * [May 15th](may-15th.md)
+* [May 16th](may-16th.md)
+* [Combination & Permutation](combination-and-permutation.md)
+* [May 18th](may-18th.md)
+* [Untitled](untitled.md)
 
