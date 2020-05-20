@@ -1,0 +1,76 @@
+# May 20th
+
+## 140. Word Break II
+
+{% embed url="https://leetcode.com/problems/word-break-ii/" %}
+
+在 \[[Q139 Word Break](https://leetcode.com/problems/word-break)\] 的基础上，把记忆 T/F 改成了 记忆所有可能解法。
+
+```python
+class Solution(object):
+    def wordBreak(self, s, wordDict):
+        memo = {}
+        def segement(s):
+            if s in memo: return memo[s]
+            # 如果memo里面没找到，就建立新的解法列表
+            res = []
+            if s in wordDict:
+                res.append(s)
+                '''
+                这边不直接记忆和return，而是需要继续遍历。
+                因为要考虑最末词语互相包含的情况，比如 cats/cat, aaa/a
+                '''
+            for i in range(1, len(s)):
+                left = s[:i]
+                if left in wordDict:
+                    rightList = segement(s[i:])
+                    for word in rightList:
+                        res.append(left+" "+word)
+            # 现在再把解法列表存起来
+            memo[s] = res
+            return res 
+        return segement(s)
+```
+
+## 683. Word Break III
+
+{% embed url="https://www.lintcode.com/problem/word-break-iii/description" %}
+
+本来想偷懒直接取len，发现空间限制超了...就改成每次记忆都只记解法数量，然后累计。
+
+硬是加个 ignore case 的要求...
+
+```python
+class Solution:
+    """
+    @param: : A string
+    @param: : A set of word
+    @return: the number of possible sentences.
+    """
+
+    def wordBreak3(self, s, dict):
+        wordDict = set()
+        for w in dict:
+            wordDict.add(w.lower())
+        memo = {}
+        def segement(s):
+            if s in memo: return memo[s]
+            # 如果memo里面没找到，就从0开始算可能的当前解法
+            res = 0
+            if s in wordDict:
+                res += 1
+                '''
+                这边不直接记忆和return，而是需要继续遍历。
+                因为要考虑最末词语互相包含的情况，比如 cats/cat, aaa/a
+                '''
+            for i in range(1, len(s)):
+                left = s[:i]
+                if left in wordDict:
+                    # 累计解法数量
+                    res += segement(s[i:])
+            # 现在再把解法列表存起来
+            memo[s] = res
+            return res 
+        return segement(s.lower())
+```
+
