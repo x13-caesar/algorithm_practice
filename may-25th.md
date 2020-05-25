@@ -25,6 +25,28 @@ class Solution:
         return res
 ```
 
+update 看到的另一个思路，不用判断质数：
+
+`L, R will be integers L <= R in the range [1, 10^6], 10^6 < 2^20`
+
+所以直接保存20以内的质数进行查找判断即可。空间换时间的一个思路。
+
+```python
+class Solution(object):
+    def countPrimeSetBits(self, L, R):
+        """
+        :type L: int
+        :type R: int
+        :rtype: int
+        """
+        primes = [2, 3, 5, 7, 11, 13, 17, 19]
+        res = 0
+        for num in range(L, R + 1):
+            if bin(num).count("1") in primes:
+                res += 1
+        return res
+```
+
 ## 1380. Log Sorting
 
 {% embed url="https://www.lintcode.com/problem/log-sorting/description" %}
