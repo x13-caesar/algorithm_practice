@@ -21,4 +21,5 @@
 * [May 22th](may-22th.md)
 * [May 23rd](may-23rd.md)
 * [May 25th](may-25th.md)
+* [May 26th](may-26th.md)
 
