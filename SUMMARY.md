@@ -24,4 +24,8 @@
 * [May 26th](may-26th.md)
 * [May 27th](may-27th.md)
 * [May 28th](may-28th.md)
+* [Binary Tree](binary-tree/README.md)
+  * [606. Construct String from Binary Tree](binary-tree/606.-construct-string-from-binary-tree.md)
+  * [617. Merge Two Binary Trees](binary-tree/617.-merge-two-binary-trees.md)
+  * [652. Find Duplicate Subtrees](binary-tree/652.-find-duplicate-subtrees.md)
 

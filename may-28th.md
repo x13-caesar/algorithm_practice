@@ -53,6 +53,49 @@ class Solution:
         return res[1:len(res)-1]
 ```
 
+反过来做的这道题要更麻烦点，虽然也是用了stack：[536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
+
+```python
+class Solution:
+    def str2tree(self, s: str) -> TreeNode:
+        if not s: return None
+		
+        stack = []
+        i = 0
+		
+        while i < len(s):
+			value = 0
+			
+			# deal with the nagative
+            sign = 1    
+            if s[i] == '-': 
+                sign = -1
+                i += 1
+			
+			# if digit found...	
+            if i < len(s) and s[i].isdigit():
+			    # catch the whole number
+                while i < len(s) and s[i].isdigit():
+                    value = 10*value + int(s[i])
+                    i += 1
+				# determine the sign
+                cur = TreeNode(value*sign)
+                if stack:
+				    # the last one node in stack is the current "parent"
+                    par = stack[-1]
+                    if not par.left: par.left = cur
+                    else: par.right = cur
+                stack.append(cur)
+				
+			# close the "parent" if a right parenthsis found 
+            if i < len(s) and s[i] == ')': stack.pop()
+			
+			# move forward
+            i += 1
+			
+        return stack[0]
+```
+
 ## 617. Merge Two Binary Trees
 
 {% embed url="https://leetcode.com/problems/merge-two-binary-trees/" %}
