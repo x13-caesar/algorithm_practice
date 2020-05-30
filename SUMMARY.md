@@ -29,4 +29,5 @@
   * [617. Merge Two Binary Trees](binary-tree/617.-merge-two-binary-trees.md)
   * [652. Find Duplicate Subtrees](binary-tree/652.-find-duplicate-subtrees.md)
 * [May 29th](may-29th.md)
+* [1442. Count Triplets That Can Form Two Arrays of Equal XOR](1442.-count-triplets-that-can-form-two-arrays-of-equal-xor.md)
 
