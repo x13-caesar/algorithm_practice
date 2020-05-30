@@ -30,4 +30,6 @@
   * [652. Find Duplicate Subtrees](binary-tree/652.-find-duplicate-subtrees.md)
 * [May 29th](may-29th.md)
 * [1442. Count Triplets That Can Form Two Arrays of Equal XOR](1442.-count-triplets-that-can-form-two-arrays-of-equal-xor.md)
+* [645. Set Mismatch](645.-set-mismatch.md)
+* [532. K-diff Pairs in an Array](532.-k-diff-pairs-in-an-array.md)
 
