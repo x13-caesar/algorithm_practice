@@ -42,4 +42,6 @@
 * [645. Set Mismatch](645.-set-mismatch.md)
 * [532. K-diff Pairs in an Array](532.-k-diff-pairs-in-an-array.md)
 * [5426. Reorder Routes to Make All Paths Lead to the City Zero](5426.-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
+* [459. Repeated Substring Pattern](459.-repeated-substring-pattern.md)
+* [119. Pascal's Triangle II](119.-pascals-triangle-ii.md)
 
