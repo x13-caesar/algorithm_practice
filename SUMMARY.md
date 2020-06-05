@@ -50,7 +50,10 @@
   * [340. Longest Substring with At Most K Distinct Characters](sliding-window/340.-longest-substring-with-at-most-k-distinct-characters.md)
   * [438. Find All Anagrams in a String](sliding-window/438.-find-all-anagrams-in-a-string.md)
   * [567. Permutation in String](sliding-window/567.-permutation-in-string.md)
+  * [992. Subarrays with K Different Integers](sliding-window/992.-subarrays-with-k-different-integers.md)
   * [76. Minimum Window Substring](sliding-window/76.-minimum-window-substring.md)
 * [538. Convert BST to Greater Tree](538.-convert-bst-to-greater-tree.md)
 * [1120. Maximum Average Subtree](1120.-maximum-average-subtree.md)
+* [628. Maximum Subtree](628.-maximum-subtree.md)
+* [662. Maximum Width of Binary Tree](662.-maximum-width-of-binary-tree.md)
 
