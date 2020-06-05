@@ -48,14 +48,15 @@ def slidingWindow(A, B=None):
 * 窗口大小不变：
   * 438. Find All Anagrams in a String [https://leetcode.com/problems/find-all-anagrams-in-a-string/](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
   * 567. Permutation in String [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)
+  * 1100. Find K-Length Substrings With No Repeated Characters [https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) 
 * 窗口大小可变：
   * 3. Longest Substring Without Repeating Characters
 
     [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
   * 76. Minimum Window Substring [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
-  * 159. Longest Substring with At Most Two Distinct Characters [https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
-  * 340. Longest Substring with At Most K Distinct Characters （跟159基本是同一道题） [https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+  * 159. Longest Substring with At Most Two Distinct Characters [https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) leetcode 打不开的看 lintcode =&gt; [https://www.lintcode.com/problem/longest-substring-with-at-most-two-distinct-characters/description](https://www.lintcode.com/problem/longest-substring-with-at-most-two-distinct-characters/description)
+  * 340. Longest Substring with At Most K Distinct Characters （跟159基本是同一道题） [https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) leetcode 打不开的看 lintcode =&gt; [https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/note/207548](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/note/207548)
   * 424. Longest Repeating Character Replacement [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
   * 992. Subarrays with K Different Integers [https://leetcode.com/problems/subarrays-with-k-different-integers/](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 * 特殊数据结构：
