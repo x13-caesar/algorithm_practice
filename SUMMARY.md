@@ -45,6 +45,7 @@
 * [459. Repeated Substring Pattern](459.-repeated-substring-pattern.md)
 * [119. Pascal's Triangle II](119.-pascals-triangle-ii.md)
 * [Sliding Window](sliding-window/README.md)
+  * [239. Sliding Window Maximum](sliding-window/239.-sliding-window-maximum.md)
   * [3. Longest Substring Without Repeating Characters](sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [159. Longest Substring with At Most Two Distinct Characters](sliding-window/159.-longest-substring-with-at-most-two-distinct-characters.md)
   * [340. Longest Substring with At Most K Distinct Characters](sliding-window/340.-longest-substring-with-at-most-k-distinct-characters.md)
@@ -56,4 +57,6 @@
 * [1120. Maximum Average Subtree](1120.-maximum-average-subtree.md)
 * [628. Maximum Subtree](628.-maximum-subtree.md)
 * [662. Maximum Width of Binary Tree](662.-maximum-width-of-binary-tree.md)
+* [242. Convert Binary Tree to Linked Lists by Depth](242.-convert-binary-tree-to-linked-lists-by-depth.md)
+* [103. Binary Tree Zigzag Level Order Traversal](103.-binary-tree-zigzag-level-order-traversal.md)
 

@@ -5,6 +5,7 @@
 * when sliding window: 在一个长string/list里面找符合条件的substring/sublist
 * how: 用双指针标记一个滑动的window来代表当前的子字符串，不断检验子字符串是否符合要求。
 * 要求的时间复杂度往往是O\(n\)，空间复杂度往往是常数级的。
+* sliding window 很少见easy题目，但不是sliding window本身有多难，基本都是难在变量的维护、指针移动条件的判断等细节，题目变化比较多。
 
 要素：
 
@@ -57,4 +58,7 @@ def slidingWindow(A, B=None):
   * 340. Longest Substring with At Most K Distinct Characters （跟159基本是同一道题） [https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
   * 424. Longest Repeating Character Replacement [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
   * 992. Subarrays with K Different Integers [https://leetcode.com/problems/subarrays-with-k-different-integers/](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+* 特殊数据结构：
+  * 239. Sliding Window Maximum [https://leetcode.com/problems/sliding-window-maximum/](https://leetcode.com/problems/sliding-window-maximum/)
+  * 
 
