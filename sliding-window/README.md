@@ -7,18 +7,18 @@
 * 要求的时间复杂度往往是O\(n\)，空间复杂度往往是常数级的。
 * sliding window 很少见easy题目，但不是sliding window本身有多难，基本都是难在变量的维护、指针移动条件的判断等细节，题目变化比较多。
 
-要素：
+## 要素：
 
 1. 左指针移动条件\[, 停止移动条件\]
 2. 记录结果条件
 
-模版：
+## 模版：
 
 ```python
 def slidingWindow(A, B=None):
     map = defaultdict(int) # 描述window的hashmap
     res = [] # 记录最终要返回的结果，有时是计数 or sth other
-    count = 0 # 用来维护 {window是否满足要求}
+    count = 0 # 条件值：用来维护 {window是否满足要求}
     
     # 有时候可以对主串str或者题目的要求做预处理，通常是算frequency
     
@@ -45,21 +45,33 @@ def slidingWindow(A, B=None):
     return res
 ```
 
-* 窗口大小不变：
-  * 438. Find All Anagrams in a String [https://leetcode.com/problems/find-all-anagrams-in-a-string/](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-  * 567. Permutation in String [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)
-  * 1100. Find K-Length Substrings With No Repeated Characters [https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) 
-* 窗口大小可变：
-  * 3. Longest Substring Without Repeating Characters
+## 题目整理：
 
-    [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+### 窗口大小不变：
 
-  * 76. Minimum Window Substring [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
-  * 159. Longest Substring with At Most Two Distinct Characters [https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) leetcode 打不开的看 lintcode =&gt; [https://www.lintcode.com/problem/longest-substring-with-at-most-two-distinct-characters/description](https://www.lintcode.com/problem/longest-substring-with-at-most-two-distinct-characters/description)
-  * 340. Longest Substring with At Most K Distinct Characters （跟159基本是同一道题） [https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) leetcode 打不开的看 lintcode =&gt; [https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/note/207548](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/note/207548)
-  * 424. Longest Repeating Character Replacement [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
-  * 992. Subarrays with K Different Integers [https://leetcode.com/problems/subarrays-with-k-different-integers/](https://leetcode.com/problems/subarrays-with-k-different-integers/)
-* 特殊数据结构：
-  * 239. Sliding Window Maximum [https://leetcode.com/problems/sliding-window-maximum/](https://leetcode.com/problems/sliding-window-maximum/)
-  * 
+{% page-ref page="438.-find-all-anagrams-in-a-string.md" %}
+
+{% page-ref page="567.-permutation-in-string.md" %}
+
+{% page-ref page="1100.-find-k-length-substrings-with-no-repeated-characters.md" %}
+
+### 窗口大小可变：
+
+{% page-ref page="3.-longest-substring-without-repeating-characters.md" %}
+
+{% page-ref page="76.-minimum-window-substring.md" %}
+
+{% page-ref page="159.-longest-substring-with-at-most-two-distinct-characters.md" %}
+
+{% page-ref page="340.-longest-substring-with-at-most-k-distinct-characters.md" %}
+
+{% page-ref page="424.-longest-repeating-character-replacement.md" %}
+
+{% page-ref page="992.-subarrays-with-k-different-integers.md" %}
+
+### 特殊数据结构：
+
+{% page-ref page="239.-sliding-window-maximum.md" %}
+
+
 
