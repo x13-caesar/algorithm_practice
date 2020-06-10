@@ -63,4 +63,6 @@
 * [103. Binary Tree Zigzag Level Order Traversal](103.-binary-tree-zigzag-level-order-traversal.md)
 * [836. Rectangle Overlap](836.-rectangle-overlap.md)
 * [682. Baseball Game](682.-baseball-game.md)
+* [1903. Department Statistics](1903.-department-statistics.md)
+* [1167. Minimum Cost to Connect Sticks](1167.-minimum-cost-to-connect-sticks.md)
 
