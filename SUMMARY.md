@@ -65,4 +65,7 @@
 * [682. Baseball Game](682.-baseball-game.md)
 * [1903. Department Statistics](1903.-department-statistics.md)
 * [1167. Minimum Cost to Connect Sticks](1167.-minimum-cost-to-connect-sticks.md)
+* [692. Top K Frequent Words](692.-top-k-frequent-words.md)
+* [1730. Spreadsheet Notation Conversion](1730.-spreadsheet-notation-conversion.md)
+* [1293. Shortest Path in a Grid with Obstacles Elimination](1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
 

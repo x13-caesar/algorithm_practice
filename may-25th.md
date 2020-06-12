@@ -65,7 +65,7 @@ class Solution:
             _id, content = log.split(" ", 1)
             # 返回的两个 tuple 分别以 0/1 开头，为了把letter content放在前面
             # content 一样的话，就会往后看key，i.e. 排_id
-            return (0, content, _id) if rest[0].isalpha() else (1,)
+            return (0, content, _id) if content[0].isalpha() else (1,)
 
         return sorted(logs, key = rules)
 ```
