@@ -68,4 +68,6 @@
 * [692. Top K Frequent Words](692.-top-k-frequent-words.md)
 * [1730. Spreadsheet Notation Conversion](1730.-spreadsheet-notation-conversion.md)
 * [1293. Shortest Path in a Grid with Obstacles Elimination](1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
+* [902. Numbers At Most N Given Digit Set](902.-numbers-at-most-n-given-digit-set.md)
+* [1736. Throw garbage](1736.-throw-garbage.md)
 
