@@ -70,4 +70,6 @@
 * [1293. Shortest Path in a Grid with Obstacles Elimination](1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
 * [902. Numbers At Most N Given Digit Set](902.-numbers-at-most-n-given-digit-set.md)
 * [1736. Throw garbage](1736.-throw-garbage.md)
+* [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
+* [Untitled](untitled-1.md)
 
