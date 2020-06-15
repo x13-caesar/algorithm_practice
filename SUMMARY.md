@@ -71,5 +71,7 @@
 * [902. Numbers At Most N Given Digit Set](902.-numbers-at-most-n-given-digit-set.md)
 * [1736. Throw garbage](1736.-throw-garbage.md)
 * [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
-* [Untitled](untitled-1.md)
+* [1268. Search Suggestions System](untitled-1.md)
+* [572. Subtree of Another Tree](572.-subtree-of-another-tree.md)
+* [Untitled](untitled-2.md)
 
