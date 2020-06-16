@@ -73,4 +73,6 @@
 * [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
 * [572. Subtree of Another Tree](572.-subtree-of-another-tree.md)
 * [1268. Search Suggestions System](1268.-search-suggestions-system.md)
+* [240. Search a 2D Matrix II](240.-search-a-2d-matrix-ii.md)
+* [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
 
