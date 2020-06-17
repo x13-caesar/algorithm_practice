@@ -75,4 +75,6 @@
 * [240. Search a 2D Matrix II](240.-search-a-2d-matrix-ii.md)
 * [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
 * [273. Integer to English Words](273.-integer-to-english-words.md)
+* [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
+* [587. Two Sum - Unique pairs](587.-two-sum-unique-pairs.md)
 
