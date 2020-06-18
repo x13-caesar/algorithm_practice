@@ -77,4 +77,6 @@
 * [273. Integer to English Words](273.-integer-to-english-words.md)
 * [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
 * [587. Two Sum - Unique pairs](587.-two-sum-unique-pairs.md)
+* [Dynamic Programming](dynamic-programming.md)
+* [1192. Critical Connections in a Network](1192.-critical-connections-in-a-network.md)
 
