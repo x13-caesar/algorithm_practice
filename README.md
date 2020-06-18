@@ -4,3 +4,9 @@ This work is some personal notes of learning and practicing data structures and 
 
 
 
+Appendix:
+
+{% embed url="http://poj.org/showcontest?contest\_id=1077" %}
+
+
+
