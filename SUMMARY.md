@@ -4,6 +4,8 @@
 
 ## Data Structure
 
+---
+
 * [May 11th](may-11th.md)
 * [May 6th](may-6th.md)
 * [May 12th](may-12th.md)
@@ -79,4 +81,6 @@
 * [587. Two Sum - Unique pairs](587.-two-sum-unique-pairs.md)
 * [Dynamic Programming](dynamic-programming.md)
 * [1192. Critical Connections in a Network](1192.-critical-connections-in-a-network.md)
+* [60. Permutation Sequence](60.-permutation-sequence.md)
+* [739. Daily Temperatures](739.-daily-temperatures.md)
 
