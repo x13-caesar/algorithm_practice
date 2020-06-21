@@ -83,4 +83,6 @@
 * [1192. Critical Connections in a Network](1192.-critical-connections-in-a-network.md)
 * [60. Permutation Sequence](60.-permutation-sequence.md)
 * [739. Daily Temperatures](739.-daily-temperatures.md)
+* [202. Happy Number](202.-happy-number.md)
+* [1488. Avoid Flood in The City](1488.-avoid-flood-in-the-city.md)
 
