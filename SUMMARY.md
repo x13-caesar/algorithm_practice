@@ -85,4 +85,6 @@
 * [739. Daily Temperatures](739.-daily-temperatures.md)
 * [202. Happy Number](202.-happy-number.md)
 * [1488. Avoid Flood in The City](1488.-avoid-flood-in-the-city.md)
+* [22. Generate Parentheses](22.-generate-parentheses.md)
+* [973. K Closest Points to Origin](973.-k-closest-points-to-origin.md)
 
