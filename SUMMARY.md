@@ -87,4 +87,6 @@
 * [1488. Avoid Flood in The City](1488.-avoid-flood-in-the-city.md)
 * [22. Generate Parentheses](22.-generate-parentheses.md)
 * [973. K Closest Points to Origin](973.-k-closest-points-to-origin.md)
+* [31. Next Permutation](31.-next-permutation.md)
+* [238. Product of Array Except Self](238.-product-of-array-except-self.md)
 
