@@ -89,4 +89,6 @@
 * [973. K Closest Points to Origin](973.-k-closest-points-to-origin.md)
 * [31. Next Permutation](31.-next-permutation.md)
 * [238. Product of Array Except Self](238.-product-of-array-except-self.md)
+* [116. Populating Next Right Pointers in Each Node](116.-populating-next-right-pointers-in-each-node.md)
+* [503. Next Greater Element II](503.-next-greater-element-ii.md)
 
