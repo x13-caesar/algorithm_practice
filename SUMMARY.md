@@ -53,6 +53,8 @@
   * [130. Surrounded Regions](connectivity/130.-surrounded-regions.md)
   * [133. Clone Graph](connectivity/133.-clone-graph.md)
   * [547. Friend Circles](connectivity/547.-friend-circles.md)
+* [Design](design/README.md)
+  * [1472. Design Browser History](design/1472.-design-browser-history.md)
 * [Sort](sort/README.md)
   * [973. K Closest Points to Origin](sort/973.-k-closest-points-to-origin.md)
   * [1268. Search Suggestions System](sort/1268.-search-suggestions-system.md)
@@ -86,6 +88,7 @@
   * [76. Minimum Window Substring](sliding-window/76.-minimum-window-substring.md)
   * [239. Sliding Window Maximum](sliding-window/239.-sliding-window-maximum.md)
 * [Recursive & DP](dynamic-programming/README.md)
+  * [198. House Robber](dynamic-programming/198.-house-robber.md)
   * [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
   * [902. Numbers At Most N Given Digit Set](dynamic-programming/902.-numbers-at-most-n-given-digit-set.md)
   * [119. Pascal's Triangle II](dynamic-programming/119.-pascals-triangle-ii.md)
@@ -104,6 +107,4 @@
 * [819. Most Common Word](819.-most-common-word.md)
 * [414. Third Maximum Number](414.-third-maximum-number.md)
 * [556. Next Greater Element III](556.-next-greater-element-iii.md)
-* [1472. Design Browser History](1472.-design-browser-history.md)
-* [198. House Robber](198.-house-robber.md)
 
