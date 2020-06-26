@@ -102,4 +102,6 @@
 * [171. Excel Sheet Column Number](171.-excel-sheet-column-number.md)
 * [819. Most Common Word](819.-most-common-word.md)
 * [414. Third Maximum Number](414.-third-maximum-number.md)
+* [556. Next Greater Element III](556.-next-greater-element-iii.md)
+* [117. Populating Next Right Pointers in Each Node II](117.-populating-next-right-pointers-in-each-node-ii.md)
 
