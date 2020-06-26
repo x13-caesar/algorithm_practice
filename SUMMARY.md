@@ -104,4 +104,6 @@
 * [819. Most Common Word](819.-most-common-word.md)
 * [414. Third Maximum Number](414.-third-maximum-number.md)
 * [556. Next Greater Element III](556.-next-greater-element-iii.md)
+* [1472. Design Browser History](1472.-design-browser-history.md)
+* [198. House Robber](198.-house-robber.md)
 
