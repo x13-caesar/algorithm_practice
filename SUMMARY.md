@@ -71,6 +71,7 @@
 * [Binary Search \| Divide & Conquer](binary-search-or-divide-and-conquer/README.md)
   * [240. Search a 2D Matrix II](binary-search-or-divide-and-conquer/240.-search-a-2d-matrix-ii.md)
 * [Two Pointers](two-pointers/README.md)
+  * [117. Populating Next Right Pointers in Each Node II](two-pointers/117.-populating-next-right-pointers-in-each-node-ii.md)
   * [587. Two Sum - Unique pairs](two-pointers/587.-two-sum-unique-pairs.md)
   * [532. K-diff Pairs in an Array](two-pointers/532.-k-diff-pairs-in-an-array.md)
 * [Sliding Window](sliding-window/README.md)
@@ -103,5 +104,4 @@
 * [819. Most Common Word](819.-most-common-word.md)
 * [414. Third Maximum Number](414.-third-maximum-number.md)
 * [556. Next Greater Element III](556.-next-greater-element-iii.md)
-* [117. Populating Next Right Pointers in Each Node II](117.-populating-next-right-pointers-in-each-node-ii.md)
 
