@@ -71,6 +71,7 @@
   * [572. Subtree of Another Tree](bfs/572.-subtree-of-another-tree.md)
   * [116. Populating Next Right Pointers in Each Node](bfs/116.-populating-next-right-pointers-in-each-node.md)
 * [Binary Search \| Divide & Conquer](binary-search-or-divide-and-conquer/README.md)
+  * [4. Median of Two Sorted Arrays](binary-search-or-divide-and-conquer/4.-median-of-two-sorted-arrays.md)
   * [240. Search a 2D Matrix II](binary-search-or-divide-and-conquer/240.-search-a-2d-matrix-ii.md)
 * [Two Pointers](two-pointers/README.md)
   * [117. Populating Next Right Pointers in Each Node II](two-pointers/117.-populating-next-right-pointers-in-each-node-ii.md)
