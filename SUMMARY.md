@@ -89,6 +89,7 @@
   * [76. Minimum Window Substring](sliding-window/76.-minimum-window-substring.md)
   * [239. Sliding Window Maximum](sliding-window/239.-sliding-window-maximum.md)
 * [Recursive & DP](dynamic-programming/README.md)
+  * [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
   * [198. House Robber](dynamic-programming/198.-house-robber.md)
   * [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
   * [902. Numbers At Most N Given Digit Set](dynamic-programming/902.-numbers-at-most-n-given-digit-set.md)
