@@ -108,4 +108,8 @@
 * [819. Most Common Word](819.-most-common-word.md)
 * [414. Third Maximum Number](414.-third-maximum-number.md)
 * [556. Next Greater Element III](556.-next-greater-element-iii.md)
+* [21. Merge Two Sorted Lists](21.-merge-two-sorted-lists.md)
+* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
+* [763. Partition Labels](763.-partition-labels.md)
+* [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
 
