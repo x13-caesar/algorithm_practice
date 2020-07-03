@@ -117,4 +117,6 @@
 * [141. Linked List Cycle](141.-linked-list-cycle.md)
 * [15. 3Sum](15.-3sum.md)
 * [42. Trapping Rain Water](42.-trapping-rain-water.md)
+* [16. 3Sum Closest](16.-3sum-closest.md)
+* [149. Max Points on a Line](149.-max-points-on-a-line.md)
 
