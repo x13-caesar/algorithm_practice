@@ -119,4 +119,9 @@
 * [42. Trapping Rain Water](42.-trapping-rain-water.md)
 * [16. 3Sum Closest](16.-3sum-closest.md)
 * [149. Max Points on a Line](149.-max-points-on-a-line.md)
+* [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
+* [109. Convert Sorted List to Binary Search Tree](109.-convert-sorted-list-to-binary-search-tree.md)
+* [394. Decode String](394.-decode-string.md)
+* [100. Same Tree](100.-same-tree.md)
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 
