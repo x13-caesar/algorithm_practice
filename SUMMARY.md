@@ -126,4 +126,6 @@
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [979. Distribute Coins in Binary Tree](979.-distribute-coins-in-binary-tree.md)
+* [101. Symmetric Tree](101.-symmetric-tree.md)
+* [695. Max Area of Island](695.-max-area-of-island.md)
 
