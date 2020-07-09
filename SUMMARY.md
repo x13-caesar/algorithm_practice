@@ -124,4 +124,6 @@
 * [394. Decode String](394.-decode-string.md)
 * [100. Same Tree](100.-same-tree.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+* [106. Construct Binary Tree from Inorder and Postorder Traversal](106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+* [979. Distribute Coins in Binary Tree](979.-distribute-coins-in-binary-tree.md)
 
