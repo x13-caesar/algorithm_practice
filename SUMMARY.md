@@ -128,4 +128,6 @@
 * [979. Distribute Coins in Binary Tree](979.-distribute-coins-in-binary-tree.md)
 * [101. Symmetric Tree](101.-symmetric-tree.md)
 * [695. Max Area of Island](695.-max-area-of-island.md)
+* [206. Reverse Linked List](206.-reverse-linked-list.md)
+* [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 
