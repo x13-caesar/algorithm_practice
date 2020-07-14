@@ -133,4 +133,7 @@
 * [430. Flatten a Multilevel Doubly Linked List](430.-flatten-a-multilevel-doubly-linked-list.md)
 * [232. Implement Queue using Stacks](232.-implement-queue-using-stacks.md)
 * [237. Delete Node in a Linked List](237.-delete-node-in-a-linked-list.md)
+* [146. LRU Cache](146.-lru-cache.md)
+* [144. Binary Tree Preorder Traversal](144.-binary-tree-preorder-traversal.md)
+* [94. Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md)
 
