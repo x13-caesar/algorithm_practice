@@ -130,4 +130,7 @@
 * [695. Max Area of Island](695.-max-area-of-island.md)
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
+* [430. Flatten a Multilevel Doubly Linked List](430.-flatten-a-multilevel-doubly-linked-list.md)
+* [232. Implement Queue using Stacks](232.-implement-queue-using-stacks.md)
+* [237. Delete Node in a Linked List](237.-delete-node-in-a-linked-list.md)
 
