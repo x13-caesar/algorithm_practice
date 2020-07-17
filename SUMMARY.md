@@ -138,4 +138,9 @@
 * [94. Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](145.-binary-tree-postorder-traversal.md)
 * [443. String Compression](443.-string-compression.md)
+* [167. Two Sum II - Input array is sorted](167.-two-sum-ii-input-array-is-sorted.md)
+* [653. Two Sum IV - Input is a BST](653.-two-sum-iv-input-is-a-bst.md)
+* [2. Add Two Numbers](2.-add-two-numbers.md)
+* [43. Multiply Strings](43.-multiply-strings.md)
+* [322. Coin Change](322.-coin-change.md)
 

@@ -77,36 +77,6 @@ class Solution:
         return False
 ```
 
-## 2. Add Two Numbers
-
-{% embed url="https://leetcode.com/problems/add-two-numbers/submissions/" %}
-
-```python
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
-class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        def decode(linkedList):
-            digit = linkedList
-            num = 0
-            time = 1
-            while digit:
-                num += digit.val * time
-                time *= 10
-                digit = digit.next
-            return num
-        sumNum = str(decode(l1) + decode(l2))
-        res = ListNode(val=int(sumNum[-1]))
-        curNode = res
-        for n in range(len(sumNum)-2,-1,-1):
-            curNode.next = ListNode(val=int(sumNum[n]))
-            curNode = curNode.next
-        return res
-```
-
 ## 756. Multiply Two Numbers
 
 {% embed url="https://www.lintcode.com/problem/multiply-two-numbers/description" %}
