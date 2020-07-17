@@ -143,4 +143,8 @@
 * [2. Add Two Numbers](2.-add-two-numbers.md)
 * [43. Multiply Strings](43.-multiply-strings.md)
 * [322. Coin Change](322.-coin-change.md)
+* [518. Coin Change 2](518.-coin-change-2.md)
+* [49. Group Anagrams](49.-group-anagrams.md)
+* [162. Find Peak Element](162.-find-peak-element.md)
+* [852. Peak Index in a Mountain Array](852.-peak-index-in-a-mountain-array.md)
 
