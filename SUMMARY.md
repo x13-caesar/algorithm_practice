@@ -147,4 +147,10 @@
 * [49. Group Anagrams](49.-group-anagrams.md)
 * [162. Find Peak Element](162.-find-peak-element.md)
 * [852. Peak Index in a Mountain Array](852.-peak-index-in-a-mountain-array.md)
+* [9. Palindrome Number](9.-palindrome-number.md)
+* [114. Flatten Binary Tree to Linked List](114.-flatten-binary-tree-to-linked-list.md)
+* [20. Valid Parentheses](20.-valid-parentheses.md)
+* [450. Delete Node in a BST](450.-delete-node-in-a-bst.md)
+* [6. ZigZag Conversion](6.-zigzag-conversion.md)
+* [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
 
