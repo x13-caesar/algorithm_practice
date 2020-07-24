@@ -153,4 +153,7 @@
 * [450. Delete Node in a BST](450.-delete-node-in-a-bst.md)
 * [6. ZigZag Conversion](6.-zigzag-conversion.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
+* [582. Kill Process](582.-kill-process.md)
+* [797. All Paths From Source to Target](797.-all-paths-from-source-to-target.md)
+* [723. Candy Crush](723.-candy-crush.md)
 
