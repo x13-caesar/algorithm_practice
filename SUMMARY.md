@@ -156,4 +156,6 @@
 * [582. Kill Process](582.-kill-process.md)
 * [797. All Paths From Source to Target](797.-all-paths-from-source-to-target.md)
 * [723. Candy Crush](723.-candy-crush.md)
+* [1396. Design Underground System](1396.-design-underground-system.md)
+* [1169. Invalid Transactions](1169.-invalid-transactions.md)
 
