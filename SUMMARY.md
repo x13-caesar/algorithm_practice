@@ -159,4 +159,6 @@
 * [1396. Design Underground System](1396.-design-underground-system.md)
 * [1169. Invalid Transactions](1169.-invalid-transactions.md)
 * [253. Meeting Rooms II](253.-meeting-rooms-ii.md)
+* [429. N-ary Tree Level Order Traversal](429.-n-ary-tree-level-order-traversal.md)
+* [1530. Number of Good Leaf Nodes Pairs](1530.-number-of-good-leaf-nodes-pairs.md)
 
