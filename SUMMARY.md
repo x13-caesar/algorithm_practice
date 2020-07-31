@@ -161,4 +161,7 @@
 * [253. Meeting Rooms II](253.-meeting-rooms-ii.md)
 * [429. N-ary Tree Level Order Traversal](429.-n-ary-tree-level-order-traversal.md)
 * [1530. Number of Good Leaf Nodes Pairs](1530.-number-of-good-leaf-nodes-pairs.md)
+* [987. Vertical Order Traversal of a Binary Tree](987.-vertical-order-traversal-of-a-binary-tree.md)
+* [33. Search in Rotated Sorted Array](33.-search-in-rotated-sorted-array.md)
+* [50. Pow\(x, n\)](50.-pow-x-n.md)
 

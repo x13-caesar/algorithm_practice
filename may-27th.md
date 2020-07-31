@@ -94,5 +94,7 @@ class MinStack:
 # param_4 = obj.getMin()
 ```
 
+**July 29 2020 Update:**
 
+第二遍做，写出来了几乎一模一样的东西...
 
