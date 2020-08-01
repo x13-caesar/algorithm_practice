@@ -164,4 +164,8 @@
 * [987. Vertical Order Traversal of a Binary Tree](987.-vertical-order-traversal-of-a-binary-tree.md)
 * [33. Search in Rotated Sorted Array](33.-search-in-rotated-sorted-array.md)
 * [50. Pow\(x, n\)](50.-pow-x-n.md)
+* [121. Best Time to Buy and Sell Stock](121.-best-time-to-buy-and-sell-stock.md)
+* [12. Integer to Roman](12.-integer-to-roman.md)
+* [283. Move Zeroes](283.-move-zeroes.md)
+* [346. Moving Average from Data Stream](346.-moving-average-from-data-stream.md)
 
