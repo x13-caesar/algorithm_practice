@@ -168,4 +168,5 @@
 * [12. Integer to Roman](12.-integer-to-roman.md)
 * [283. Move Zeroes](283.-move-zeroes.md)
 * [346. Moving Average from Data Stream](346.-moving-average-from-data-stream.md)
+* [88. Merge Sorted Array](88.-merge-sorted-array.md)
 
