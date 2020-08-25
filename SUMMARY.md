@@ -179,4 +179,12 @@
 * [460. LFU Cache](460.-lfu-cache.md)
 * [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
 * [1047. Remove All Adjacent Duplicates In String](1047.-remove-all-adjacent-duplicates-in-string.md)
+* [1209. Remove All Adjacent Duplicates in String II](1209.-remove-all-adjacent-duplicates-in-string-ii.md)
+* [332. Reconstruct Itinerary](332.-reconstruct-itinerary.md)
+* [445. Add Two Numbers II](445.-add-two-numbers-ii.md)
+* [1249. Minimum Remove to Make Valid Parentheses](1249.-minimum-remove-to-make-valid-parentheses.md)
+* [921. Minimum Add to Make Parentheses Valid](921.-minimum-add-to-make-parentheses-valid.md)
+* [1029. Two City Scheduling](1029.-two-city-scheduling.md)
+* [41. First Missing Positive](41.-first-missing-positive.md)
+* [694. Number of Distinct Islands](694.-number-of-distinct-islands.md)
 
