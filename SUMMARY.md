@@ -188,4 +188,5 @@
 * [41. First Missing Positive](41.-first-missing-positive.md)
 * [694. Number of Distinct Islands](694.-number-of-distinct-islands.md)
 * [140. Word Break II](140.-word-break-ii.md)
+* [1155. Number of Dice Rolls With Target Sum](1155.-number-of-dice-rolls-with-target-sum.md)
 
