@@ -189,4 +189,7 @@
 * [694. Number of Distinct Islands](694.-number-of-distinct-islands.md)
 * [140. Word Break II](140.-word-break-ii.md)
 * [1155. Number of Dice Rolls With Target Sum](1155.-number-of-dice-rolls-with-target-sum.md)
+* [384. Shuffle an Array](384.-shuffle-an-array.md)
+* [1300. Sum of Mutated Array Closest to Target](untitled-2.md)
+* [700. Search in a Binary Search Tree](700.-search-in-a-binary-search-tree.md)
 
