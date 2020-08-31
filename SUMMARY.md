@@ -192,4 +192,5 @@
 * [384. Shuffle an Array](384.-shuffle-an-array.md)
 * [1300. Sum of Mutated Array Closest to Target](untitled-2.md)
 * [700. Search in a Binary Search Tree](700.-search-in-a-binary-search-tree.md)
+* [701. Insert into a Binary Search Tree](701.-insert-into-a-binary-search-tree.md)
 
