@@ -193,4 +193,7 @@
 * [1300. Sum of Mutated Array Closest to Target](untitled-2.md)
 * [700. Search in a Binary Search Tree](700.-search-in-a-binary-search-tree.md)
 * [701. Insert into a Binary Search Tree](701.-insert-into-a-binary-search-tree.md)
+* [977. Squares of a Sorted Array](977.-squares-of-a-sorted-array.md)
+* [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree.md)
+* [1123. LCA of Deepest Leaves](1123.-lca-of-deepest-leaves.md)
 
