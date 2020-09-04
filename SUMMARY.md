@@ -48,7 +48,7 @@
   * [138. Copy List with Random Pointer](hash-table/138.-copy-list-with-random-pointer.md)
   * [1903. Department Statistics](hash-table/1903.-department-statistics.md)
 * [Connectivity](connectivity/README.md)
-  * [33. N-Queens](connectivity/33.-n-queens.md)
+  * [51. N-Queens](connectivity/51.-n-queens.md)
   * [200. Number of Islands](connectivity/200.-number-of-islands.md)
   * [130. Surrounded Regions](connectivity/130.-surrounded-regions.md)
   * [133. Clone Graph](connectivity/133.-clone-graph.md)
