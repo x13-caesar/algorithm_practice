@@ -198,4 +198,6 @@
 * [1123. LCA of Deepest Leaves](1123.-lca-of-deepest-leaves.md)
 * [220. Contains Duplicate III](220.-contains-duplicate-iii.md)
 * [968. Binary Tree Cameras](968.-binary-tree-cameras.md)
+* [257. Binary Tree Paths](257.-binary-tree-paths.md)
+* [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum.md)
 
