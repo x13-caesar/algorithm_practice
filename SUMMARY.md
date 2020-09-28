@@ -201,4 +201,5 @@
 * [257. Binary Tree Paths](257.-binary-tree-paths.md)
 * [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum.md)
 * [160. Intersection of Two Linked Lists](160.-intersection-of-two-linked-lists.md)
+* [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
 
