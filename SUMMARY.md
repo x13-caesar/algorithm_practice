@@ -203,4 +203,5 @@
 * [160. Intersection of Two Linked Lists](160.-intersection-of-two-linked-lists.md)
 * [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
 * [1606. Find Servers That Handled Most Number of Requests](1606.-find-servers-that-handled-most-number-of-requests.md)
+* [1095. Find in Mountain Array](1095.-find-in-mountain-array.md)
 
