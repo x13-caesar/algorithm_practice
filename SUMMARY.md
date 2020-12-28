@@ -204,4 +204,6 @@
 * [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
 * [1606. Find Servers That Handled Most Number of Requests](1606.-find-servers-that-handled-most-number-of-requests.md)
 * [1095. Find in Mountain Array](1095.-find-in-mountain-array.md)
+* [98. Validate Binary Search Tree](98.-validate-binary-search-tree.md)
+* [380. Insert Delete GetRandom O\(1\)](380.-insert-delete-getrandom-o-1.md)
 
