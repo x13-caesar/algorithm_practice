@@ -41,5 +41,12 @@ class Solution:
             if count[l] == 1:
                 return index
         return -1
+        
+# solution 3 - O(1) space:
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        S = 'abcdefghijklmnopqrstuvwxyz'
+        indices = [s.index(c) for c in S if s.count(c) == 1]
+        return min(indices) if indices else -1
 ```
 
