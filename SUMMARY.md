@@ -208,4 +208,5 @@
 * [380. Insert Delete GetRandom O\(1\)](380.-insert-delete-getrandom-o-1.md)
 * [64. Minimum Path Sum](64.-minimum-path-sum.md)
 * [78. Subsets](78.-subsets.md)
+* [1539. Kth Missing Positive Number](1539.-kth-missing-positive-number.md)
 
