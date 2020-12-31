@@ -4,7 +4,15 @@ This work is some personal notes of learning and practicing data structures and 
 
 
 
-Appendix:
+### Contact me:
+
+Email: [xuqiangwen1994@gmail.com](mailto:xuqiangwen1994@gmail.com)
+
+Twitter: [@hsu\_caesar](https://twitter.com/hsu_caesar)
+
+
+
+### Appendix:
 
 {% embed url="http://poj.org/showcontest?contest\_id=1077" %}
 

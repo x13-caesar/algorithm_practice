@@ -209,4 +209,5 @@
 * [64. Minimum Path Sum](64.-minimum-path-sum.md)
 * [78. Subsets](78.-subsets.md)
 * [1539. Kth Missing Positive Number](1539.-kth-missing-positive-number.md)
+* [470. Implement Rand10\(\) Using Rand7\(\)](470.-implement-rand10-using-rand7.md)
 
