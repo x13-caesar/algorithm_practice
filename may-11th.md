@@ -16,6 +16,10 @@ class Solution:
 
 ## 387. First Unique Character in a String
 
+{% embed url="https://leetcode.com/problems/first-unique-character-in-a-string/" %}
+
+
+
 ```python
 # python solution 1
 class Solution:
