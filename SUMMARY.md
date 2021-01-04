@@ -217,4 +217,5 @@
 * [188. Best Time to Buy and Sell Stock IV](188.-best-time-to-buy-and-sell-stock-iv.md)
 * [70. Climbing Stairs](70.-climbing-stairs.md)
 * [210. Course Schedule II](210.-course-schedule-ii.md)
+* [56. Merge Intervals](56.-merge-intervals.md)
 
