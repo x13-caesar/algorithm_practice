@@ -8,12 +8,11 @@
 
 要求O\(n\)解决问题，就只能：
 
-1. 遍历常数次
-2. 需要从叶节点往上传递val大小限制
-3. 发现当前node不符合BST，就把当前size归零，继续遍历
-4. 随时记录得到的最大size
-
-还是有点像DFS。
+1. 遍历常数次 -&gt; 减少不必要的重复搜索 -&gt;
+2. 从叶节点开始检查 -&gt; recursively
+3. 往上传递val大小限制
+4. 发现当前node不符合BST，就把当前size归零，继续遍历
+5. 随时记录得到的最大size
 
 ```python
 # Definition for a binary tree node.
