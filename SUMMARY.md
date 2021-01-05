@@ -218,4 +218,6 @@
 * [70. Climbing Stairs](70.-climbing-stairs.md)
 * [210. Course Schedule II](210.-course-schedule-ii.md)
 * [56. Merge Intervals](56.-merge-intervals.md)
+* [621. Task Scheduler](621.-task-scheduler.md)
+* [1244. Design A Leaderboard](1244.-design-a-leaderboard.md)
 
