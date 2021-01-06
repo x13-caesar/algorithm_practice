@@ -220,4 +220,5 @@
 * [56. Merge Intervals](56.-merge-intervals.md)
 * [621. Task Scheduler](621.-task-scheduler.md)
 * [1244. Design A Leaderboard](1244.-design-a-leaderboard.md)
+* [269. Alien Dictionary](269.-alien-dictionary.md)
 
