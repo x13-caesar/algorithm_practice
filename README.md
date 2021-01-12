@@ -14,6 +14,12 @@ Twitter: [@hsu\_caesar](https://twitter.com/hsu_caesar)
 
 ### Appendix:
 
+#### 数据结构与算法/leetcode/lintcode题解:
+
+{% embed url="https://algorithm.yuanbin.me/zh-hans/" %}
+
+
+
 {% embed url="http://poj.org/showcontest?contest\_id=1077" %}
 
 

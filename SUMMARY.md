@@ -221,4 +221,6 @@
 * [621. Task Scheduler](621.-task-scheduler.md)
 * [1244. Design A Leaderboard](1244.-design-a-leaderboard.md)
 * [269. Alien Dictionary](269.-alien-dictionary.md)
+* [Methodology Summary](methodology-summary.md)
+* [74. Search a 2D Matrix](74.-search-a-2d-matrix.md)
 
