@@ -227,4 +227,6 @@
 * [154. Find Minimum in Rotated Sorted Array II](154.-find-minimum-in-rotated-sorted-array-ii.md)
 * [4. Median of Two Sorted Arrays](4.-median-of-two-sorted-arrays.md)
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
+* [86. Partition List](86.-partition-list.md)
+* [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
 
