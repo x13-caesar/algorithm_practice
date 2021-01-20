@@ -229,4 +229,5 @@
 * [82. Remove Duplicates from Sorted List II](82.-remove-duplicates-from-sorted-list-ii.md)
 * [86. Partition List](86.-partition-list.md)
 * [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
+* [530. Minimum Absolute Difference in BST](530.-minimum-absolute-difference-in-bst.md)
 
