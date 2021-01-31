@@ -18,8 +18,6 @@ Twitter: [@hsu\_caesar](https://twitter.com/hsu_caesar)
 
 {% embed url="https://algorithm.yuanbin.me/zh-hans/" %}
 
-
-
 {% embed url="http://poj.org/showcontest?contest\_id=1077" %}
 
 
